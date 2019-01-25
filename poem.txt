@@ -7,8 +7,10 @@ red
 blue
 yellow
 Indigo
+There is a yellow sun in the sky during the day
 
 These are the colors of the rainbow
 
+the moon is not made of cheese
 
 And the unicorn
